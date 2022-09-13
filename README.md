@@ -11,6 +11,8 @@ See [github](https://github.com/ObiajuluM/Alexandria#alexandria) for a detailed 
 
 ## Usage/Examples
 
+`pip install EthAlexandria`
+
 ```python
 import EthAlexandria # import the package
 import ipfshttpclient # for connecting to ipfs
