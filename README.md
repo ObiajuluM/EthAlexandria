@@ -3,7 +3,7 @@
 
 A project to decentralize and distribute literary infrastructure.
 
-See [github](https://github.com/ObiajuluM/Alexandria#alexandria) for a detailed breakdown.
+Smart Contracts Built in Vyper. See [github](https://github.com/ObiajuluM/Alexandria#alexandria) for a detailed breakdown.
 
 
 
